@@ -1,0 +1,11 @@
+main: asher.tyramusweapons.Main.WeaponsMain
+name: tyramusweapons
+version: 1.0.0
+api-version: 1.16
+commands:
+  kit:
+    description: Gives a kit
+    usage: /<command> <kit_name>
+  resethp:
+    description: resets health points and speed
+    usage: /<command>
